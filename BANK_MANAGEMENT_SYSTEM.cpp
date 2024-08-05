@@ -409,7 +409,7 @@ void intro()
 	cout<<"\n| BANK";
 	cout<<"\n| MANAGEMENT";
 	cout<<"\n| SYSTEM";
-	cout<<"\n\nMADE BY : Suryanshu Jain, Suyash Rajput, Yash Sharma, Yushae Hasan Hashmi";
+	cout<<"\n\nMADE BY : Suryanshu Jain, Suyash Rajput, Vaibhav Harit, Yash Sharma";
 	cout<<"\n\nPress ENTER to continue...";
     cin.get();
 }
